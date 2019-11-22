@@ -1,0 +1,2 @@
+objetos con ciclos
+nombres array de elementos y recorrer array
